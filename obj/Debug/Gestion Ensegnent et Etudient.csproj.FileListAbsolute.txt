@@ -1,0 +1,7 @@
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\bin\Debug\Gestion Ensegnent et Etudient.exe.config
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\bin\Debug\Gestion Ensegnent et Etudient.exe
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\bin\Debug\Gestion Ensegnent et Etudient.pdb
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\obj\Debug\Gestion Ensegnent et Etudient.csproj.AssemblyReference.cache
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\obj\Debug\Gestion Ensegnent et Etudient.csproj.CoreCompileInputs.cache
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\obj\Debug\Gestion Ensegnent et Etudient.exe
+C:\Users\kananavy\Documents\Hackaton\Gestion Ensegnent et Etudient\Gestion Ensegnent et Etudient\obj\Debug\Gestion Ensegnent et Etudient.pdb
